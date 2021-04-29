@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: andrng
+Build-Jdk: 15.0.2
+Implementation-Title: xslt-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://projects.spring.io/spring-boot/demo/
+Created-By: Maven Integration for Eclipse
+
